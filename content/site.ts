@@ -187,6 +187,7 @@ export const site = {
   notFound: { message: 'Page not found', homeLink: 'Back to home' },
 
   ui: {
+    navLabel: 'Main',
     demo: {
       tabsLabel: 'Demo examples',
       input: 'Input',

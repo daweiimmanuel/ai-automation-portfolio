@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
 import { site } from '@/content/site';
+import './globals.css';
 
 export const metadata: Metadata = {
   title: site.seo.title,
